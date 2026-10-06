@@ -1,0 +1,6 @@
+{
+  "name": "بصمة عالم الفخامة | متجر وكتالوج الأثاث الفاخر",
+  "description": "متجر وكتالوج أثاث فاخر يعرض أرقى غرف النوم والمجالس وأطقم الكنب والديكور الراقي، مع استوديو داخلي لإدارة ونشر محتوى السوشيال ميديا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
